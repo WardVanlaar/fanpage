@@ -1,0 +1,37 @@
+body {
+    background-color: pink;
+  }
+
+  h1 {
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h2 {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  h3 {
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: red;
+  }
+
+   table, th, td {
+    border-style: solid;
+    border-width: medium;
+    border-color: red;
+    border-radius: 5px;  
+   }
