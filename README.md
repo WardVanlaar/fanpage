@@ -1,31 +1,31 @@
 
-# Test5
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# fanpage
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Table of Contents
 * [Description](#Description)
-* [Installation](#Installation)
 * [Usage](#Usage)
 * [License](#License)
+* [Credits](#Credits)
+* [Questions](#Questions)
 
 
 ## Description
-bla
+This was my first website when I did the pre-work to Coding Bootcamp.
 
 ## Installation
-bla
+N/A
 
 ## Usage
-bla
+Just take a peek at my favorite band and don't mind the minimalistic approach...this was my first website after all.
 
 ## License
-This App is covered under the following license: GNU AGPLv3
+This App is covered under the following license: The Unlicense
 
 ## Credits
-bla
+Just me!
 
 ## Tests
-bla
+N/A
 
 ## Questions
-For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/WardVanlaar)
-  
+For questions, contact me via email (wgvanlaar@gmail.com) or find me on GitHub (https://github.com/WardVanlaar)
