@@ -1,26 +1,26 @@
   # Test
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
   
   ## Table of Contents
-  [* Description](#Description)[* Installation](#Installation)[* Usage](#Usage)
+  [* Description](#Description)[* Installation](#Installation)[* Usage](#Usage)[* Badges](#Badges)[* Licence](#Licence)
 
   ## Description
-  Test
+  test
 
   ## Installation
-  Test
+  aaa
 
   ## Usage
-  Test
+  aaa
   
   ## License
-  This App is covered under the following license: The Unlicense
+  This App is covered under the following license: GNU AGPLv3
 
   ## Credits
-  Test
+  aa
   
   ## Tests
-  Test
+  aaa
 
   ## Questions
-  For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/WardVanlaar)
+  For questions, contact me via email (aaa) or find me on GitHub (https://github.com/aaa)
