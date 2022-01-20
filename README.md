@@ -1,30 +1,30 @@
 
-  # Test
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# Test
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 ## Table of Contents
   * [Description](#Description)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Licence](#Licence)
+* [License](#License)
 
 
 ## Description
-bla
+Test4
 
 ## Installation
-bla
+test3
 
 ## Usage
-bla
+test2
 
-  ## License
-  This App is covered under the following license: Mozilla Public License 2.0
+## License
+This App is covered under the following license: GNU AGPLv3
 
 ## Credits
-bla
+test
 
 ## Tests
-bla
+test2
 
 ## Questions
-For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/bla)
+For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/WardVanlaar)
