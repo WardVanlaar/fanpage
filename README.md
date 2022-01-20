@@ -1,29 +1,30 @@
 
-  # aa
-  
-  
+  # Test
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ## Table of Contents
-*[Description](#Description)
-*[Installation](#Installation)
-*[Usage](#Usage)
+  * [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Licence](#Licence)
 
 
-  ## Description
-  aa
+## Description
+bla
 
-  ## Installation
-  aa
+## Installation
+bla
 
-  ## Usage
-  aa
-  
+## Usage
+bla
 
-  ## Credits
-  aa
-  
-  ## Tests
-  aa
+  ## License
+  This App is covered under the following license: Mozilla Public License 2.0
 
-  ## Questions
-  For questions, contact me via email (a) or find me on GitHub (https://github.com/a)
-  
+## Credits
+bla
+
+## Tests
+bla
+
+## Questions
+For questions, contact me via email (wardv@tirf.ca) or find me on GitHub (https://github.com/bla)
