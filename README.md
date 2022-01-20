@@ -1,5 +1,6 @@
+
   # test
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
   
   ## Table of Contents
   * Description* Installation* Usage
@@ -14,7 +15,7 @@
   test
   
   ## License
-  This App is covered under the following license: GNU LGPLv3
+  This App is covered under the following license: Mozilla Public License 2.0
 
   ## Credits
   test
@@ -23,4 +24,4 @@
   test
 
   ## Questions
-  For questions, contact me via email (wardv) or GitHub (https://github.com/ward)
+  For questions, contact me via email (wardv@tirf.ca) or GitHub (https://github.com/wardvanlaar)
